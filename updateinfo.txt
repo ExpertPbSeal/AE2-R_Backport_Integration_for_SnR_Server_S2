@@ -1,0 +1,25 @@
+Assets Source
+=====================================================
+https://modrinth.com/resourcepack/perfect-ae2-backport\n
+https://modrinth.com/resourcepack/megacells-texture-backport\n
+https://modrinth.com/resourcepack/ae2-texture-Backport
+
+Modify Info
+=====================================================
+* Deleted unused extension turtorials
+* Modified requester-related textures
+* Rolled *Creative Energy Cell* back to AE2 Backport version
+* Fixed megacells not displaying correct backported textures when plugged into drives
+* Partially Fixed deviation of channel indicators in P2P Interfaces
+* Revised meteorite turtorial contents
+* Fixed hash light offset on memory cards
+* Modified textures of debug card, creative fluid cell and [COMING SOON]
+* Deleted useless LED slot on cell dock
+* Removed Entity Textures to guarantee compatibility with HEVI
+
+Known Issues
+=====================================================
+* Cannot drag items directly from EMI to Requester GUI slots
+
+#pack merge & modified by ExpertPbSeal
+#Last update: 2026-3-4 01:28:04 UTC+8
