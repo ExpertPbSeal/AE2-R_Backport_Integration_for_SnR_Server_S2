@@ -16,10 +16,12 @@ Modify Info
 * Modified textures of debug card, creative fluid cell and [COMING SOON]
 * Deleted useless LED slot on cell dock
 * Removed Entity Textures to guarantee compatibility with HEVI
+* *Kindly* fixed crafting monitor screen blocking number texts (Yokuyin)
+* Modified textures of Storage-related off Monitors
 
 Known Issues
 =====================================================
 * Cannot drag items directly from EMI to Requester GUI slots
 
 #pack merge & modified by ExpertPbSeal
-#Last update: 2026-3-4 01:28:04 UTC+8
+#Last update: 2026-4-2 15:29:07 UTC+8
