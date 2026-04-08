@@ -18,6 +18,7 @@ Modify Info
 * Removed Entity Textures to guarantee compatibility with HEVI
 * *Kindly* fixed crafting monitor screen blocking number texts (Yokuyin)
 * Modified textures of Storage-related off Monitors
+* Partially backported Megacell Guides from its latest version
 
 Known Issues
 =====================================================
