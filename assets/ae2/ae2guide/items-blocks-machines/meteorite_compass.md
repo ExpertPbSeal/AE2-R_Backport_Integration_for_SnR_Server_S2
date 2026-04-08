@@ -19,7 +19,7 @@ The Meteorite Compass points at the nearest <ItemLink id="mysterious_cube" />, w
 
 ...sadly, due to initial worldgen strategy in S2, **meteorite structures would never generated across the world.**
 
-That is, to aquire those necessary [Presses](items-blocks-machines/presses.md), you have to trade with [Fluix Researcher](items-blocks-machines/fluix_researcher.md) or purchase a set in *Centralia AE2 Shop* at `2813 ~ 2399`.
+That is, to aquire those necessary [Presses](../items-blocks-machines/presses.md), you have to trade with [Fluix Researcher](../items-blocks-machines/fluix_researcher.md) or purchase a set in *Centralia AE2 Shop* at `2813 ~ 2399`.
 
 ## Recipe
 

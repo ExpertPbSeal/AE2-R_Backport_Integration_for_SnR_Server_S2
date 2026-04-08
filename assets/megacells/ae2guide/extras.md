@@ -33,18 +33,6 @@ the stock-keeping.
 <RecipeFor id="mega_interface" />
 <RecipeFor id="cable_mega_interface" />
 
-## Portable Cell Workbench
-
-<ItemImage id="portable_cell_workbench" scale="4" />
-
-Somewhat out of character for the rest of the add-on, the **Portable Cell Workbench** is a... *smaller* version of
-the <ItemLink id="ae2:cell_workbench" />. Small enough, in fact, to fit just in the palm of your hand, while still
-capable of configuring any storage cell as normal.
-
-One can only wonder how a whole workbench could have fit into this thing.
-
-<RecipeFor id="portable_cell_workbench" />
-
 ## Cell Dock
 
 <GameScene zoom="8" background="transparent">
@@ -65,6 +53,8 @@ buffer storage.
 <RecipeFor id="cell_dock" />
 
 ## "Classic Cell Colours"
+
+**⚠ NOT INCLUDED IN CURRENT MODPACK ⚠**
 
 As an optional visual throwback, MEGA provides the following bundled resource pack which the user may choose to enable.
 

@@ -15,11 +15,11 @@ item_ids:
 # Energy Cells
 
 <Row gap="20">
-  <BlockImage id="energy_cell" scale="8" p:fullness="4" />
+  <BlockImage id="energy_cell" scale="5" p:fullness="4" />
 
-  <BlockImage id="dense_energy_cell" scale="8" p:fullness="4" />
+  <BlockImage id="dense_energy_cell" scale="5" p:fullness="4" />
 
-  <BlockImage id="creative_energy_cell" scale="8" />
+  <BlockImage id="creative_energy_cell" scale="5" />
 </Row>
 
 Energy cells give a network more [energy](../ae2-mechanics/energy.md) storage. Some amount of energy buffer helps to smooth
@@ -33,6 +33,8 @@ energy draw of [spatial storage](../ae2-mechanics/spatial-io.md).
 <BlockImage id="energy_cell" scale="4" p:fullness="0" />
 <BlockImage id="energy_cell" scale="4" p:fullness="1" />
 <BlockImage id="energy_cell" scale="4" p:fullness="2" />
+</Row>
+<Row>
 <BlockImage id="energy_cell" scale="4" p:fullness="3" />
 <BlockImage id="energy_cell" scale="4" p:fullness="4" />
 </Row>

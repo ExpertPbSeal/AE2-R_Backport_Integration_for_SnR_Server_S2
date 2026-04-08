@@ -19,6 +19,7 @@ Modify Info
 * *Kindly* fixed crafting monitor screen blocking number texts (Yokuyin)
 * Modified textures of Storage-related off Monitors
 * Partially backported Megacell Guides from its latest version
+* Fixed tons of display issues among guides
 
 Known Issues
 =====================================================

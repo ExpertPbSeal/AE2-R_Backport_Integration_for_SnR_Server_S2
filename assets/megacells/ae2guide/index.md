@@ -44,6 +44,8 @@ Once you have some Sky Steel, you can use it to assemble a brand-new processor t
 Processor**. This processor serves as the distinct "backbone" of almost every MEGA device, be they the standard
 larger-capacity cells or any of the other specialised tools.
 
+You have to trade with a [Fluix Researcher](../../ae2/ae2guide/items-blocks-machines/fluix_researcher.md) to aquire the **Accumulation Press**.
+
 <Row>
   <RecipeFor id="accumulation_processor_press" />
   <RecipeFor id="printed_accumulation_processor" />

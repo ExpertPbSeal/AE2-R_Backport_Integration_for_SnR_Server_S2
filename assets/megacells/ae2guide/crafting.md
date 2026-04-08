@@ -32,6 +32,8 @@ item_ids:
   <BlockImage id="mega_crafting_unit" scale="4" />
   <BlockImage id="1m_crafting_storage" scale="4" />
   <BlockImage id="4m_crafting_storage" scale="4" />
+</Row>
+<Row>
   <BlockImage id="16m_crafting_storage" scale="4" />
   <BlockImage id="64m_crafting_storage" scale="4" />
   <BlockImage id="256m_crafting_storage" scale="4" />

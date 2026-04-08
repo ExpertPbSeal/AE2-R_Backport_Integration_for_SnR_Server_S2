@@ -61,12 +61,6 @@ See [Bytes and Types](../ae2-mechanics/bytes-and-types.md) for an explanation of
 
 Storage components can be removed from the housing if the cell is empty by shift-right clicking with the cell in your hand.
 
-<Row>
-    <Recipe id="upgrade/item_storage_cell_1k_to_4k" />
-
-    You can upgrade storage cells to higher tiers by combining them with higher-tier storage components in a crafting grid. Their content will be retained, and the lower-tier component is  returned.
-</Row>
-
 ## Storage Capacity with Varying Type Count
 
 The [upfront cost of types](../ae2-mechanics/bytes-and-types.md) is such that a cell holding 1 type can hold 2x as much as a cell with all 63 types in use.
@@ -234,7 +228,8 @@ In addition to the upgrade cards all cells can receive, these also accept <ItemL
 # Creative Storage Cell
 
 <Row>
-  <ItemImage id="creative_storage_cell" scale="2" />
+  <ItemImage id="creative_item_cell" scale="2" />
+  <ItemImage id="creative_fluid_cell" scale="2" />
 </Row>
 
 Creative cells **do not provide infinite storage**. Instead, they act as infinite sources and sinks of whatever

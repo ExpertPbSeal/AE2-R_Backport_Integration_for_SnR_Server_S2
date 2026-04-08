@@ -18,15 +18,15 @@ energy acceptors can intake at functionally unlimited speed, only limited by you
 
 <Row>
   <BlockImage id="energy_acceptor" scale="4" />
-
+  
   <GameScene zoom="4" background="transparent">
   <ImportStructure src="../assets/blocks/cable_energy_acceptor.snbt" />
   </GameScene>
 
   <BlockImage id="controller" p:state="online" scale="4" />
-
+</Row>
+<Row>
   <BlockImage id="vibration_chamber" p:active="true" scale="4" />
-  
   <BlockImage id="crystal_resonance_generator" scale="4" />
 </Row>
 

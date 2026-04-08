@@ -91,12 +91,17 @@ item_ids:
   <IsometricCamera yaw="195" pitch="10" />
 </GameScene>
 
+Seal notes: Ughh we know few types of cells might be failed to render in this schem, which are optional ones only would show up 
+with certain AE2 ancillary mods being installed, so theres quite nothing need to be worried about :slightly_smile:
+
 ## MEGA [Storage Cells](ae2:items-blocks-machines/storage_cells.md)
 
 <Row>
   <ItemImage id="mega_item_cell_housing" scale="4" />
   <ItemImage id="item_storage_cell_1m" scale="4" />
   <ItemImage id="item_storage_cell_4m" scale="4" />
+</Row>
+<Row>
   <ItemImage id="item_storage_cell_16m" scale="4" />
   <ItemImage id="item_storage_cell_64m" scale="4" />
   <ItemImage id="item_storage_cell_256m" scale="4" />
@@ -123,22 +128,23 @@ to craft an item cell housing for your new M-tier components.
 </Row>
 
 For fluids and everything beyond, there are also dedicated housings. As it turns out, Sky Stone is powerful enough that
-it can alloy with some other metals to also form the appropriate cells, such as copper to make fluid cell housings out
-of **Sky Bronze**. Even outside of this guide, whatever you can think of may be supported by MEGA and a dedicated cell
-with its own housing type.
+it can alloy with some other metals to also form...
+
+Hey, wait a second, you all know we are still in 1.20.1 right? Sky bronze/osmium isn't even a thing yet, so we have to erase
+this section aswell. Just bear in mind those "futuristic" materials do would show up at the end of the day...
 
 <Row>
-  <ItemImage id="sky_bronze_ingot" scale="4" />
   <ItemImage id="mega_fluid_cell_housing" scale="4" />
   <ItemImage id="fluid_storage_cell_1m" scale="4" />
   <ItemImage id="fluid_storage_cell_4m" scale="4" />
+</Row>
+<Row>
   <ItemImage id="fluid_storage_cell_16m" scale="4" />
   <ItemImage id="fluid_storage_cell_64m" scale="4" />
   <ItemImage id="fluid_storage_cell_256m" scale="4" />
 </Row>
 
 <Row>
-  <Recipe id="transform/sky_bronze_ingot" />
   <RecipeFor id="mega_fluid_cell_housing" />
 </Row>
 

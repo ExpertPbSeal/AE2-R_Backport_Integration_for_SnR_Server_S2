@@ -44,8 +44,8 @@ wouldn't be much point in doing so anyway.
 </Row>
 
 A newly-crafted Bulk Cell cannot yet function; first it needs to be *partitioned* (filtered) to designate what item it
-will store. This is done using a <ItemLink id="ae2:cell_workbench" /> or our convenient
-<ItemLink id="portable_cell_workbench" />. Once this has been done, the cell will begin to take in that respective item,
+will store. This is done using a <ItemLink id="ae2:cell_workbench" /> or our Convenient Portab... wait thats another
+would-be object... anyway, once this has been done, the cell will begin to take in that respective item,
 even prioritising itself as the first and probably only place that this item will be sent to from the moment its filter
 is set.
 
@@ -80,6 +80,8 @@ so.
 ![Bulk cell item count as displayed past Long.MAX_VALUE](assets/diagrams/bulk_cell_max_count_2.png)
 
 ## Bulk Compression
+
+
 
 <Row>
   <ItemImage id="compression_card" scale="3" />

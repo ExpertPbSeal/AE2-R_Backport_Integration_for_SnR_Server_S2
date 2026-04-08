@@ -72,7 +72,8 @@ of the other components. They are also a base ingredient in the other components
   <BlockImage id="4k_crafting_storage" scale="4" />
 
   <BlockImage id="16k_crafting_storage" scale="4" />
-
+</Row>
+<Row>
   <BlockImage id="64k_crafting_storage" scale="4" />
 
   <BlockImage id="256k_crafting_storage" scale="4" />

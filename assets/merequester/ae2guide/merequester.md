@@ -1,6 +1,6 @@
 ---
 navigation:
-  title: ME Requester
+  title: "Add-on: ME Requester"
   icon: requester
   position: 100
 item_ids:
