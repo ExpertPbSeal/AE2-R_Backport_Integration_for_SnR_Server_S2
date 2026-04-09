@@ -27,3 +27,4 @@ Known Issues
 
 #pack merge & modified by ExpertPbSeal
 #Last update: 2026-4-2 15:29:07 UTC+8
+#Feedback: https://github.com/ExpertPbSeal/AE2-R_Backport_Integration_for_SnR_Server_S2
