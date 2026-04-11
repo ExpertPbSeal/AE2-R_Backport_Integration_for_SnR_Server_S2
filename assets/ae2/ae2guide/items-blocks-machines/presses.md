@@ -19,7 +19,8 @@ item_ids:
 There are 5 different presses used in the <ItemLink id="inscriber" />.
 
 Well, since the accumulation press from Megacells has no turtorial content, you have to figure it out by yourself :P
-...All-right, Well, I'd better have a showdown: MegaCells Guide
+
+...All-right, just kidding, I will have a showdown: [MegaCells Guide](megacells:index.md)
 
 <Row>
   <ItemImage id="silicon_press" scale="4" />
